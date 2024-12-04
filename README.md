@@ -1,7 +1,7 @@
 # Enhancing Employee Attrition Prediction 
 
 This research has been developed for the partial fulfillment for the requirements for the MSc Data Science and Society at Tilburg University.
-The study focuses on enhancing exisiting reseearch on employee attrition prediction through the introduction of a new dataset with novel features.
+The study focuses on enhancing exisiting research on employee attrition prediction through the introduction of a new dataset with novel features.
 Due to the sensitive nature of employee records, raw data and exploratory data analysis (EDA) results cannot be publicly shared. The features used in this study are described in the section below.
 
 In *models* notebook the code for six ML models (DT, RF, GBM, XGBoost, CatBoost, LGBM) is developed for the baseline model (excluding novel features) and the extended model (including novel features).
